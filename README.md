@@ -9,10 +9,10 @@ Hardware Required
 - Arduino Uno R3/Arduino Mega/Arduino Nano
 - Ultrasonic Range Finder Sensor – HC – SR04
 - Ultrasonic Mount
-- Motor Driver IC – L293D 
+- Motor Driver – L298
 - Servo Motor (Tower Pro SG90)
-- 4Wd Robot Chassis
-- Power Supply Battary
+- 4Wd Robot Chassis - (4 wheels, 4 motors, chassis, screws)
+- Power Supply Battary - Lithium ion battery or Lipo Battery - 12v
 
 Steps
 
