@@ -1,4 +1,4 @@
-# 4wd_Obstacle-Avoiding-Robot
+# 4wd Obstacle Avoiding Robot Car
 4WD Robotic Car with built-in Obstacle Avoidance
 
 In this tutorial you will learn to make a 4WD robotic car with built-in obstacle avoidance. This project involves building a 4WD car with an ultrasonic sensor that can detect nearby objects and change its direction to avoid these objects. The ultrasonic sensor will be attached to a servo motor which is constantly scanning left and right looking for objects in its way. You can extend this project by adding more sensors such as ultrasonic sensor to the rear so that the car doesn’t reverse into objects, speed detection sensors to determine speed, line following sensors, and LED brake lights. You could even add light sensors and LEDs to turn headlights on in low-light conditions or a Bluetooth connection to control the car through a mobile app.
@@ -12,7 +12,7 @@ Hardware Required
 - Motor Driver – L298
 - Servo Motor (Tower Pro SG90)
 - 4Wd Robot Chassis - (4 wheels, 4 motors, chassis, screws)
-- Power Supply Battary - Lithium ion battery or Lipo Battery - 12v
+- Power Supply - Lithium ion battery or Lipo Battery - 12v
 
 Steps
 
